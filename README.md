@@ -1,4 +1,4 @@
-# Ideas
+# ideas
 
 This is the [repository](https://help.github.com/articles/github-glossary#repository) where Code for Portland is using the issues section to propose, discuss, and track project ideas.
 
